@@ -11,6 +11,8 @@ __pycache__/
 # Sub-branches
 mango-render/
 ./mango-render
+mango-render-queue.py
+
 mango-scene/
 ./mango-scene
 
